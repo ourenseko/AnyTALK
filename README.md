@@ -3,7 +3,7 @@
 
 Configuración principal de hardware
 ---
-Conecta el microfono y parlante en los puertos de tu ordenador, activa el modo VOX 1 de tu emisora y sube el volumen al máximo.
+Conecta el microfono y parlante en los puertos jack respectivamente (puede ser necesario uno o más adaptadores), activa el modo VOX 1 de tu emisora y sube el volumen al máximo.
 
 Nota: En ordenadores portatiles puede ser necesario un adaptador para bifurcar microfono y altavoz
 
@@ -14,14 +14,17 @@ Instrucciones de Ejecución
 Compilar los programas: Abre una terminal (o símbolo del sistema) y compila los archivos .java:
 
 (sh - Copy code)
+
 javac VoiceChatServer.java VoiceChatClient.java
 Ejecutar el servidor: En la computadora que actuará como servidor, ejecuta:
 
 (sh - Copy code)
+
 java VoiceChatServer
 Ejecutar el cliente: En la computadora que actuará como cliente, ejecuta:
 
 (sh - Copy code)
+
 java VoiceChatClient
 
 Asegúrate de que el cliente tenga la dirección IP correcta del servidor. Puedes cambiar 127.0.0.1 en VoiceChatClient.java por la IP real del servidor.
