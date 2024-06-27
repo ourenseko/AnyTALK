@@ -1,6 +1,16 @@
-BAOFONGhz v. 0.1 (Aplha)
+*BAOFONGhz v. 0.1 (Alpha)*
+
+
+Configuración principal de hardware
+---
+Conecta el microfono y parlante en los puertos de tu ordenador, activa el modo VOX 1 de tu emisora y sube el volumen al máximo.
+
+Nota: En ordenadores portatiles puede ser necesario un adaptador para bifurcar microfono y altavoz
+
+
 
 Instrucciones de Ejecución
+---
 Compilar los programas: Abre una terminal (o símbolo del sistema) y compila los archivos .java:
 
 sh - Copy code
