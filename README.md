@@ -1,4 +1,4 @@
-*BAOFONGhz v. 0.1 (Alpha)*
+-*BAOFONGhz v. 0.1 (Alpha)*-
 
 
 Configuración principal de hardware
@@ -13,15 +13,15 @@ Instrucciones de Ejecución
 ---
 Compilar los programas: Abre una terminal (o símbolo del sistema) y compila los archivos .java:
 
-sh - Copy code
+(sh - Copy code)
 javac VoiceChatServer.java VoiceChatClient.java
 Ejecutar el servidor: En la computadora que actuará como servidor, ejecuta:
 
-sh - Copy code
+(sh - Copy code)
 java VoiceChatServer
 Ejecutar el cliente: En la computadora que actuará como cliente, ejecuta:
 
-sh - Copy code
+(sh - Copy code)
 java VoiceChatClient
 
 Asegúrate de que el cliente tenga la dirección IP correcta del servidor. Puedes cambiar 127.0.0.1 en VoiceChatClient.java por la IP real del servidor.
