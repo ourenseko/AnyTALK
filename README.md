@@ -21,20 +21,21 @@ Instrucciones de Ejecución
 Compilar los programas: Abre una terminal (o símbolo del sistema) y compila los archivos .java:
 
 (sh - Copy code)
+ javac VoiceChatServer.java VoiceChatClient.java
 
-javac VoiceChatServer.java VoiceChatClient.java
 Ejecutar el servidor: En la computadora que actuará como servidor, ejecuta:
 
 (sh - Copy code)
+ java VoiceChatServer
 
-java VoiceChatServer
 Ejecutar el cliente: En la computadora que actuará como cliente, ejecuta:
 
 (sh - Copy code)
+ java VoiceChatClient
 
-java VoiceChatClient
+Asegúrate de que el cliente tenga la dirección IP correcta del servidor. Puedes cambiar 127.0.0.1 en VoiceChatClient.java por la IP real del servidor. Para probar el sistema con una conexión a internet simplemente usar las IPs locales que asigna el router a cada dispositivo y abrir los puertos en el SO (Windows con seguridad avanzada)
 
-Asegúrate de que el cliente tenga la dirección IP correcta del servidor. Puedes cambiar 127.0.0.1 en VoiceChatClient.java por la IP real del servidor.
+
 
 Nota:
 Ambos programas usan el puerto 12345. Asegúrate de que este puerto esté abierto en ambas computadoras y no esté bloqueado por ningún firewall.
