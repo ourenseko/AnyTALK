@@ -1,4 +1,4 @@
--*BAOFONGhz v. 0.1 (Alpha)*-
+*BAOFONGhz v. 0.1 (Alpha)*
 
 
 Configuración principal de hardware
@@ -30,4 +30,14 @@ Nota:
 Ambos programas usan el puerto 12345. Asegúrate de que este puerto esté abierto en ambas computadoras y no esté bloqueado por ningún firewall.
 Este ejemplo es bastante básico y no incluye manejo de errores robusto ni cifrado. Para un entorno de producción, se deben considerar más medidas de seguridad y gestión de errores.
 La calidad de la transmisión puede variar dependiendo de la red y las capacidades de hardware de las computadoras involucradas.
+
+
+
+
+GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
 
