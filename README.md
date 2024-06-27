@@ -3,9 +3,9 @@
 
 Configuración principal de hardware y software 
 ---
-En ordenadores portatiles y teléfonos (necesitas que pueda ejecutar Java) puede ser necesario un adaptador para bifurcar microfono y altavoz
+En ordenadores portatiles y teléfonos (necesitas que pueda ejecutar Java) puede ser necesario un adaptador para bifurcar microfono y altavoz además de un reductor del jack 3.5mm a 2.5mm
 
-Conecta el microfono y parlante en los puertos jack respectivamente (puede ser necesario más de un adaptador), activa el modo VOX 1 de tu emisora y sube el volumen al máximo.
+Conecta el microfono y parlante en los puertos jack respectivamente, activa el modo VOX 1 de tu emisora y sube el volumen al máximo.
 
 Sintoniza una frecuencia silenciosa (legal) o repetidor dedicado en el que va a operar la estación local
 
