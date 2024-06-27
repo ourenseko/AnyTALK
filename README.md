@@ -1,11 +1,18 @@
 *BAOFONGhz v. 0.1 (Alpha)*
 
 
-Configuración principal de hardware
+Configuración principal de hardware y software 
 ---
-Conecta el microfono y parlante en los puertos jack respectivamente (puede ser necesario uno o más adaptadores), activa el modo VOX 1 de tu emisora y sube el volumen al máximo.
+En ordenadores portatiles y teléfonos (necesitas que pueda ejecutar Java) puede ser necesario un adaptador para bifurcar microfono y altavoz
 
-Nota: En ordenadores portatiles puede ser necesario un adaptador para bifurcar microfono y altavoz
+Conecta el microfono y parlante en los puertos jack respectivamente (puede ser necesario más de un adaptador), activa el modo VOX 1 de tu emisora y sube el volumen al máximo.
+
+Sintoniza una frecuencia silenciosa (legal) o repetidor dedicado en el que va a operar la estación local
+
+El servidor necesita tener una IP estática o usar un servicio noIP para mantener la conexión
+
+En el firewall del router o teléfono (datos) redirecciona el puerto 1234 local al 8080 exterior (o asigna el que veas conveniente)
+
 
 
 
