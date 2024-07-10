@@ -1,6 +1,7 @@
 import javax.sound.sampled.*;
 import java.io.*;
 import java.net.*;
+import javax.swing.JOptionPane;
 
 public class cliente {
     //private static final String SERVER_ADDRESS = "127.0.0.1"; // Cambia esto por la IP del servidor
@@ -31,6 +32,7 @@ public class cliente {
             }
         } catch (IOException | LineUnavailableException e) {
             e.printStackTrace();
+            JOptionPane.showMessageDialog(null, "Unknown Host", "BAOFONGhz", JOptionPane.ERROR_MESSAGE);
         }
     }
 }

@@ -72,7 +72,7 @@ public class index extends javax.swing.JFrame {
             }
         });
 
-        jTextField2.setText("8080");
+        jTextField2.setText("1234");
         jTextField2.setToolTipText("Net Port");
 
         jTextField3.setText("YOUR PUBLIC IP");
@@ -93,7 +93,7 @@ public class index extends javax.swing.JFrame {
         });
 
         jLabel3.setForeground(new java.awt.Color(153, 153, 153));
-        jLabel3.setText("BAOFONGhz™ - v. 0.2.10072024");
+        jLabel3.setText("BAOFONGhz™ - v. 0.3.11072024");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -158,36 +158,51 @@ public class index extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
         
-        
-        String message = "ESCUCHANDO";
-        String title = "Baofonghz";
-        JOptionPane.showMessageDialog(null, message, title, JOptionPane.INFORMATION_MESSAGE);
-        
         String SERVER_ADDRESS = jTextField1.getText();
         String puerto = jTextField2.getText();
+        String message = "Sintonizando:\n "+SERVER_ADDRESS+":"+puerto;
+        JOptionPane.showMessageDialog(null, message, "BAOFONGhz", JOptionPane.INFORMATION_MESSAGE);
+        
+        
         int PORT = Integer.parseInt(puerto);
         
         cliente client = new cliente();
-        client.VoiceChatClient(SERVER_ADDRESS, PORT);
+        // client.VoiceChatClient(SERVER_ADDRESS, PORT);
+        Thread clientThread = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                client.VoiceChatClient(SERVER_ADDRESS, PORT);
+            }
+        });
+        clientThread.start();
         
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
         
-        String message = "EMITIENDO";
-        String title = "Baofonghz";
-        JOptionPane.showMessageDialog(null, message, title, JOptionPane.INFORMATION_MESSAGE);
         
         //String ip_SERVER_ADDRESS = jTextField3.getText();
         String  puerto = jTextField4.getText();
         int PORT = Integer.parseInt(puerto);
         
+        String message = "Servidor iniciado:\n YOUR_PUBLIC_IP\n "+puerto+"==>PUBLIC_PORT";
+        JOptionPane.showMessageDialog(null, message, "BAOFONGhz", JOptionPane.INFORMATION_MESSAGE);
+        
+        
+        
        ip ip = new ip();
        jTextField3.setText(ip.getIp());
         
         servidor server = new servidor();
-        server.VoiceChatServer(PORT);
+       // server.VoiceChatServer(PORT);
+        Thread serverThread = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                server.VoiceChatServer(PORT);
+            }
+        });
+        serverThread.start();
         
     }//GEN-LAST:event_jButton2ActionPerformed
 
