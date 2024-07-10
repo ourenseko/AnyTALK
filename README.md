@@ -1,4 +1,4 @@
-*BAOFONGhz v. 0.1 (Alpha)*
+*BAOFONGhz (TM)*
 
 
 Configuración principal de hardware y software 
