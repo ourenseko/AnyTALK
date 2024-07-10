@@ -57,6 +57,15 @@ GNU GENERAL PUBLIC LICENSE
 
 Configuración principal de hardware y software 
 ---
+
+Requisitos mínimos: 
+-Una radio, para utilizar de estación
+-Cables de audio, para conectar los jack
+-Un dispositivo que ejecute Java
+-Conexión a internet
+-Conocimientos mínimos en redes
+
+
 En ordenadores portatiles y teléfonos (necesitas que pueda ejecutar Java) puede ser necesario un adaptador para bifurcar microfono y altavoz además de un reductor del jack 3.5mm a 2.5mm
 
 Conecta el microfono y parlante en los puertos jack respectivamente, activa el modo VOX 1 de tu emisora y sube el volumen al máximo.
