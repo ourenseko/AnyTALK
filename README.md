@@ -22,7 +22,10 @@ Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFO
 
 ![image](https://github.com/ourenseko/BAOFONGhz/assets/25538565/db09cb01-b0ea-49e3-95cf-873e0fa551a8)
 
+Para ver las tripas:
 
+(sh - Copy code)
+ java -jar BAOFONGhz.jar
 
 
 Instrucciones de Ejecución version 0.1 Alpha
