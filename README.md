@@ -1,4 +1,4 @@
-<h1>BAOFONGhz (TM)</h1>
+<h1>BAOFONGhz™</h1>
 
 Requisitos mínimos
 ---
