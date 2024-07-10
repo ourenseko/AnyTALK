@@ -3,7 +3,7 @@
 Requisitos mínimos
 ---
 
--Una radio, para utilizar de estación
+-Un radiotransmisor, para utilizar de estación
 
 -Cables de audio, para conectar los jack
 
