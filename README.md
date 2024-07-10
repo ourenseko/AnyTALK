@@ -18,11 +18,14 @@ Nota: Es necesario que tu IPS te probeéa de una IP unica (variable ó fija) y n
 
 Instrucciones de Ejecución version 0.3.11072024 Alpha
 ---
+
 Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFONGhz.jar
  
 
 Instrucciones de Ejecución version 0.2.10072024 Alpha
 ---
+
+UPDAPTED.
 
 ![image](https://github.com/ourenseko/BAOFONGhz/assets/25538565/db09cb01-b0ea-49e3-95cf-873e0fa551a8)
 
