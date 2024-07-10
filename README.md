@@ -16,16 +16,16 @@ En el firewall del router o teléfono (datos) redirecciona el puerto 1234 local 
 Nota: Es necesario que tu IPS te probeéa de una IP unica (variable ó fija) y no formes parte de una red para ahorrar matriculas IP, de lo contrario el servicio de broadcast (Emitir) es probable que no funcione para tí al no poder identificarte y conectarse con tu computadora. Solo podrás escuchar.
 
 
-Instrucciones de Ejecución version 0.2.10072024 Alpha
+Instrucciones de Ejecución version 0.3.11072024 Alpha
 ---
 Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFONGhz.jar
+ 
+
+Instrucciones de Ejecución version 0.2.10072024 Alpha
+---
 
 ![image](https://github.com/ourenseko/BAOFONGhz/assets/25538565/db09cb01-b0ea-49e3-95cf-873e0fa551a8)
 
-Para ver las tripas:
-
-(sh - Copy code)
- java -jar BAOFONGhz.jar
 
 
 Instrucciones de Ejecución version 0.1 Alpha
