@@ -16,11 +16,18 @@ Requisitos mínimos
 
 -Conocimientos mínimos en redes
 
+Instrucciones de Ejecución v. 0.4.12072024 Beta
+---
+
+Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFONGhz.jar
+
+![v  0 4](https://github.com/ourenseko/BAOFONGhz/assets/25538565/380a0b2f-3e36-4820-9c4b-0ffe59d87592)
+
 
 Instrucciones de Ejecución v. 0.3.11072024 Beta
 ---
 
-Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFONGhz.jar
+UPDAPTED
  
 
 Instrucciones de Ejecución v. 0.2.10072024 Alpha (GUI)
