@@ -27,7 +27,7 @@ Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFO
 Instrucciones de Ejecución v. 0.3.11072024 Beta
 ---
 
-UPDAPTED
+UPDAPTED.
  
 
 Instrucciones de Ejecución v. 0.2.10072024 Alpha (GUI)
