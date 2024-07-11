@@ -23,7 +23,7 @@ Instrucciones de Ejecución version 0.3.11072024 Beta
 Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFONGhz.jar
  
 
-Instrucciones de Ejecución version 0.2.10072024 Alpha
+Instrucciones de Ejecución version 0.2.10072024 Alpha (GUI)
 ---
 
 UPDAPTED.
@@ -32,7 +32,7 @@ UPDAPTED.
 
 
 
-Instrucciones de Ejecución version 0.1 Alpha
+Instrucciones de Ejecución version 0.1 Alpha (SHELL)
 ---
 Compilar los programas: Abre una terminal (o símbolo del sistema) y compila los archivos .java:
 
