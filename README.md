@@ -36,18 +36,20 @@ Instrucciones de Ejecución version 0.1 Alpha
 ---
 Compilar los programas: Abre una terminal (o símbolo del sistema) y compila los archivos .java:
 
-(sh - Copy code)
+```Java
  javac VoiceChatServer.java VoiceChatClient.java
+```
 
-Ejecutar el servidor: En la computadora que actuará como servidor, ejecuta:
+Ejecutar el servidor: En la computadora que actuará como servidor
 
-(sh - Copy code)
+```Java 
  java VoiceChatServer
+```
 
-Ejecutar el cliente: En la computadora que actuará como cliente, ejecuta:
-
-(sh - Copy code)
+Ejecutar el cliente: En la computadora que actuará como cliente
+```Java
  java VoiceChatClient
+```
 
 Asegúrate de que el cliente tenga la dirección IP correcta del servidor. Puedes cambiar 127.0.0.1 en VoiceChatClient.java por la IP real del servidor. Para probar el sistema con una conexión a internet simplemente usar las IPs locales que asigna el router a cada dispositivo y abrir los puertos en el SO (Windows con seguridad avanzada)
 
@@ -61,7 +63,7 @@ La calidad de la transmisión puede variar dependiendo de la red y las capacidad
 
 
 
-GNU GENERAL PUBLIC LICENSE
+```GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -69,7 +71,7 @@ GNU GENERAL PUBLIC LICENSE
  of this license document, but changing it is not allowed.
 
 (...)
-
+```
 
 
 Configuración principal de hardware y software 
