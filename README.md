@@ -63,7 +63,8 @@ La calidad de la transmisión puede variar dependiendo de la red y las capacidad
 
 
 
-```GNU GENERAL PUBLIC LICENSE
+```Licencia de uso, not comercial purporses
+GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
