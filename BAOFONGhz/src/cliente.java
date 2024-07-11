@@ -32,7 +32,8 @@ public class cliente {
             }
         } catch (IOException | LineUnavailableException e) {
             e.printStackTrace();
-            JOptionPane.showMessageDialog(null, "Unknown Host", "BAOFONGhz", JOptionPane.ERROR_MESSAGE);
+            JOptionPane.showMessageDialog(null, "Unknown Host:\n "+SERVER_ADDRESS+":"+PORT, "BAOFONGhz", JOptionPane.ERROR_MESSAGE);
+            
         }
     }
 }

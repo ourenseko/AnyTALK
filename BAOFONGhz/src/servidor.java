@@ -1,6 +1,7 @@
 import javax.sound.sampled.*;
 import java.io.*;
 import java.net.*;
+import javax.swing.JOptionPane;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -42,6 +43,8 @@ public class servidor {
             }
         } catch (IOException | LineUnavailableException e) {
             e.printStackTrace();
+            JOptionPane.showMessageDialog(null, "Fatal error VoIP", "BAOFONGhz", JOptionPane.ERROR_MESSAGE);
+            
         }
     }
 }
