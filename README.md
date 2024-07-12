@@ -95,4 +95,4 @@ El servidor necesita tener una IP estática o usar un servicio noIP para mantene
 
 En el firewall del router o teléfono (datos) redirecciona el puerto 1234 local al 8080 exterior (o asigna el que veas conveniente)
 
-Nota: Es necesario que el IPS le provea de una IP unica (variable ó fija) que no forme parte de una red NAT para ahorrar matriculas IP, de lo contrario la función servidor (transmitir) es muy probable que no funcione para tí al no poder identificar su computadora en la red. Solo podrás escuchar.
+Nota: Es necesario que el IPS le provea de una IP única (variable ó fija) y que no forme parte de una red NAT para ahorrar matriculas IP, si no, la función servidor (transmitir) es muy probable que no funcione para tí al no poder identificar su computadora en la red. Solo podrás escuchar.
