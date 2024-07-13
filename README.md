@@ -22,16 +22,17 @@ Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFO
 
 ![image](https://github.com/user-attachments/assets/1c54c7cc-5590-4186-8757-df7f8cddc90f)
 
+-ó-
 
-Shell
+Server (SHELL)
 ```Java
-java -jar BAOFONGhz.jar -servidor <PUERTO>
+java -jar BAOFONGhz.jar -servidor <LOCAL_PORT>
 java -jar BAOFONGhz.jar -s 32323
 ```
 
-Shell
+Client (SHELL)
 ```Java
-java -jar BAOFONGhz.jar -cliente <IP> <PUERTO>
+java -jar BAOFONGhz.jar -cliente <IP> <PORT>
 java -jar BAOFONGhz.jar -c 8.8.8.8 80
 ```
 
