@@ -16,7 +16,7 @@ Requisitos mínimos
 
 -Conocimientos mínimos en redes
 
-Instrucciones de Ejecución v. 0.6.12072024 Beta
+Instrucciones de Ejecución v. 0.6.13072024 Beta
 ---
 Descargar: 
 
