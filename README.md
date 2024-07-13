@@ -20,10 +20,6 @@ Instrucciones de Ejecución v. 0.6.12072024 Beta
 ---
 Descargar: 
 
-GUI
-```Java
-java -jar dist/BAOFONGhz.jar
-```
 
 Shell
 ```Java
