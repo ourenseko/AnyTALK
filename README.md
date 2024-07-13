@@ -18,7 +18,7 @@ Requisitos mínimos
 
 Instrucciones de Ejecución v. 0.6.13072024 Beta
 ---
-Descargar: 
+Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFONGhz.jar
 
 ![image](https://github.com/user-attachments/assets/1c54c7cc-5590-4186-8757-df7f8cddc90f)
 
@@ -38,7 +38,7 @@ java -jar BAOFONGhz.jar -c 8.8.8.8 80
 Instrucciones de Ejecución v. 0.4.12072024 Beta
 ---
 
-Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFONGhz.jar
+Descargar: https://github.com/ourenseko/BAOFONGhz/releases/tag/v.0.3.11072024
 
 ![v  0 4](https://github.com/ourenseko/BAOFONGhz/assets/25538565/380a0b2f-3e36-4820-9c4b-0ffe59d87592)
 
