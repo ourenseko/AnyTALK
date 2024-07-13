@@ -20,6 +20,8 @@ Instrucciones de Ejecución v. 0.6.12072024 Beta
 ---
 Descargar: 
 
+![image](https://github.com/user-attachments/assets/1c54c7cc-5590-4186-8757-df7f8cddc90f)
+
 
 Shell
 ```Java
