@@ -21,20 +21,21 @@ Instrucciones de Ejecución v. 0.6.12072024 Beta
 Descargar: 
 
 GUI
-'''Java
+```Java
 java -jar dist/BAOFONGhz.jar
-'''
+```
 
 Shell
-'''Java
-java -jar dist/BAOFONGhz.jar -servidor <PUERTO>
-java -jar dist/BAOFONGhz.jar -s 32323
+```Java
+java -jar BAOFONGhz.jar -servidor <PUERTO>
+java -jar BAOFONGhz.jar -s 32323
+```
 
 Shell
-'''Java
-java -jar dist/BAOFONGhz.jar -cliente <IP> <PUERTO>
-java -jar dist/BAOFONGhz.jar -c 8.8.8.8 80
-'''
+```Java
+java -jar BAOFONGhz.jar -cliente <IP> <PUERTO>
+java -jar BAOFONGhz.jar -c 8.8.8.8 80
+```
 
 Instrucciones de Ejecución v. 0.4.12072024 Beta
 ---
