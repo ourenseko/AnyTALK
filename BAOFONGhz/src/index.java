@@ -112,7 +112,7 @@ public class index extends javax.swing.JFrame {
         });
 
         jLabel3.setForeground(new java.awt.Color(153, 153, 153));
-        jLabel3.setText("BAOFONGhz™ - v. 0.5.12072024");
+        jLabel3.setText("BAOFONGhz™ - v. 0.6.13072024");
 
         jComboBox1.setToolTipText("Listening list");
 
@@ -390,13 +390,45 @@ public class index extends javax.swing.JFrame {
      * @param args the command line arguments
      */
     public static void main(String args[]) throws UnsupportedLookAndFeelException {
+        
+        
+        if (args.length > 0 && args[0] != null) {
+            System.out.println("----------------\nMODO SHELL\n----------------");
+            switch (args[0]) {
+                case "-servidor":
+                case "-server":
+                case "-s":
+                case "/s":
+                case "s":
+                    System.out.println("Loading server...");
+                    new servidor().VoiceChatServer(Integer.parseInt(args[1]));
+                    break;
+                case "-cliente":
+                case "-client":
+                case "-c":
+                case "/c":
+                case "c":
+                    System.out.println("Loading client...");
+                    String SERVER_ADDRESS = args[1];
+                    int PORT = Integer.parseInt(args[2]);
+                    new cliente().VoiceChatClient(SERVER_ADDRESS, PORT);
+                    break;
+            default:
+                System.exit(0);
+            }
+            //System.exit(0);
+        }else{
+            System.out.println("----------------\nMODO GUI\n----------------");
+            
+        }
+        
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
          * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
          */
         try {
-        // Establecer el Look and Feel de Windows
+        // Establecer el Look and Feel del sistema
             javax.swing.UIManager.setLookAndFeel(javax.swing.UIManager.getSystemLookAndFeelClassName());
         } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | UnsupportedLookAndFeelException ex) {
             ex.printStackTrace();
@@ -420,6 +452,7 @@ public class index extends javax.swing.JFrame {
         }
         ***/
         //</editor-fold>
+        
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
