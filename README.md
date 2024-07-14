@@ -115,7 +115,7 @@ Nota: Es necesario que el IPS le provea de una IP única (variable ó fija) y qu
 Recursos de interes
 --
 
-The Pi4J Project: This project is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform. 
+The Pi4J Project: Este proyecto tiene como objetivo proporcionar una API de Entrada/Salida orientada a objetos y bibliotecas de implementación para que los programadores de Java accedan a todas las capacidades de E/S de la plataforma Raspberry Pi.
 
 https://github.com/Pi4J
 
