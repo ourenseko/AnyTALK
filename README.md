@@ -89,7 +89,7 @@ BAOFENG ©️ COPYRIGHT 2024
 
 (...)
 
-Cont'd: https://github.com/ourenseko/BAOFONGhz/blob/main/LICENSE
+Cont'd: https://github.com/ourenseko/BAOFONGhz/LICENSE
 
 
 ```
