@@ -85,14 +85,13 @@ La calidad de la transmisión puede variar dependiendo de la red y las capacidad
 
 
 ```Licencia de uso, not comercial purporses
-GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
-
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+BAOFENG ©️ COPYRIGHT 2024
 
 (...)
+
+Cont'd: https://github.com/ourenseko/BAOFONGhz/blob/main/LICENSE
+
+
 ```
 
 
