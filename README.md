@@ -87,9 +87,9 @@ La calidad de la transmisión puede variar dependiendo de la red y las capacidad
 ```Licencia de uso, not comercial purporses
 BAOFENG ©️ COPYRIGHT 2024
 
-(...)
+(...) Cont'd file: BAOFONGhz/LICENSE
 
-Cont'd: https://github.com/ourenseko/BAOFONGhz/LICENSE
+Permanet link: https://raw.githubusercontent.com/ourenseko/BAOFONGhz/main/LICENSE
 
 
 ```
