@@ -14,7 +14,21 @@ Permanet link: https://raw.githubusercontent.com/ourenseko/BAOFONGhz/main/LICENS
 
 ```
 
+Características 
+---
 
+
+- Estación de emisión VozIP
+
+- Estación de recepción VozIP
+
+- Multi estación I/O
+
+- Guardado
+
+- LORO / Repetidor
+
+- Compatibilidad con reproductores y grabadoras 
 
 
 
@@ -38,19 +52,7 @@ Descargar:  https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz_v0.8.1208
 
 
 
-Server class (SHELL)
-```Java
-java -jar BAOFONGhz.jar -servidor <LOCAL_PORT>
-java -jar BAOFONGhz.jar -s 32323
-```
-
-Client class (SHELL)
-```Java
-java -jar BAOFONGhz.jar -cliente <IP> <PORT>
-java -jar BAOFONGhz.jar -c 8.8.8.8 80
-```
-
-Debug mode (SHELL)
+Debug mode (GUI/SHELL)
 ```Java
 java -jar BAOFONGhz.jar 
 ```
