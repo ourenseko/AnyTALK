@@ -56,3 +56,5 @@ Debug mode (GUI/SHELL)
 ```Java
 java -jar BAOFONGhz.jar 
 ```
+
+![image](https://github.com/user-attachments/assets/987cc60f-5f71-422e-aa5a-aae2fce62429)
