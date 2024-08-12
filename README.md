@@ -6,13 +6,13 @@
 Requisitos mínimos
 ---
 
--Un radiotransmisor, para utilizar de estación
+-Un radiotransmisor FM ó DMR, para utilizar de estación
 
--Cables de audio, para conectar los jack
+-Cables de audio y adaptadores, para conectar los jack en la radio
 
--Un dispositivo que ejecute Java
+-Un dispositivo que ejecute mínimo Java 8
 
--Conexión a internet
+-Conexión a internet ó red local potente
 
 -Conocimientos mínimos en redes
 
