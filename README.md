@@ -37,7 +37,6 @@ Nuevas funciones
 
 Instrucciones de Ejecución v. 0.6.13072024 Beta
 ---
-Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFONGhz.jar
 
 
 ![image](https://github.com/user-attachments/assets/1c54c7cc-5590-4186-8757-df7f8cddc90f)
