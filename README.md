@@ -18,7 +18,11 @@ Requisitos mínimos
 
 Instrucciones de Ejecución v. 0.8.12082024 Beta
 ---
-Descargar: 
+Descargar: https://github.com/ourenseko/BAOFONGhz/tree/main/BAOFONGhz/dist
+(Es necesario descargar tambien la bliblioteca "lib/gson-2.8.9.jar" y mantener la estuctura de directorios)
+
+![image](https://github.com/user-attachments/assets/5291656a-7508-48f9-a837-c31018c665ab)
+
 
 Nuevas funciones 
 
@@ -26,19 +30,15 @@ Nuevas funciones
 
 -Funcionalidad Guardar emisora: Guarda la estación en un archivo haciando un apunte de la dirección del servidor.
 
--Funcionalidad Emosoras: Muestra una tabla con las estaciones guaradas en el archivo.
+-Funcionalidad Emisoras: Muestra una tabla con las estaciones guaradas en el archivo.
+
+
 
 
 
 Instrucciones de Ejecución v. 0.6.13072024 Beta
 ---
 Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFONGhz.jar
-
-Nuevas funciones: 
-
--Funcionalidad: Muestra una lista desplegable de las conexiones efectuadas con el cliente y el servidor.
-
--Mejora visial: Tema Windows
 
 
 ![image](https://github.com/user-attachments/assets/1c54c7cc-5590-4186-8757-df7f8cddc90f)
