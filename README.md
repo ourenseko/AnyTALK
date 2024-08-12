@@ -50,3 +50,7 @@ java -jar BAOFONGhz.jar -cliente <IP> <PORT>
 java -jar BAOFONGhz.jar -c 8.8.8.8 80
 ```
 
+Debug mode (SHELL)
+```Java
+java -jar BAOFONGhz.jar 
+```
