@@ -3,6 +3,22 @@
 ![baner-800px](https://github.com/ourenseko/BAOFONGhz/assets/25538565/2f8f2af3-63df-4168-862d-042b93d8f30c)
 
 
+
+```Licencia de uso, not comercial purporses
+BAOFONGhz ©️ COPYRIGHT 2024
+
+(...) Cont'd file: BAOFONGhz/LICENSE
+
+Permanet link: https://raw.githubusercontent.com/ourenseko/BAOFONGhz/main/LICENSE
+
+
+```
+
+
+
+
+
+
 Requisitos mínimos
 ---
 
@@ -106,15 +122,6 @@ La calidad de la transmisión puede variar dependiendo de la red y las capacidad
 
 
 
-```Licencia de uso, not comercial purporses
-BAOFONGhz ©️ COPYRIGHT 2024
-
-(...) Cont'd file: BAOFONGhz/LICENSE
-
-Permanet link: https://raw.githubusercontent.com/ourenseko/BAOFONGhz/main/LICENSE
-
-
-```
 
 
 Configuración principal de hardware y software 
