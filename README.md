@@ -61,7 +61,7 @@ java -jar BAOFONGhz.jar -c 8.8.8.8 80
 Instrucciones de Ejecución v. 0.4.12072024 Beta
 ---
 
-Descargar: https://github.com/ourenseko/BAOFONGhz/releases/tag/v.0.3.11072024
+Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz_v.0.3.11072024.zip
 
 ![v  0 4](https://github.com/ourenseko/BAOFONGhz/assets/25538565/380a0b2f-3e36-4820-9c4b-0ffe59d87592)
 
