@@ -39,6 +39,8 @@ Nuevas funciones (Necesita la bliblioteca "lib/gson-2.8.9.jar" y mantener la est
 Instrucciones de Ejecución v. 0.6.13072024 Beta
 ---
 
+UPDAPTED.
+
 
 ![image](https://github.com/user-attachments/assets/1c54c7cc-5590-4186-8757-df7f8cddc90f)
 
