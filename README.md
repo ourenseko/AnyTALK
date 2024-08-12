@@ -36,15 +36,15 @@ Características
 Requisitos mínimos
 ---
 
--Un radiotransmisor FM ó DMR, para utilizar de estación
+- Un radiotransmisor FM ó DMR, para utilizar de estación
 
--Cables de audio y adaptadores, para conectar los jack en la radio
+- Cables de audio y adaptadores, para conectar los jack en la radio
 
--Un dispositivo que ejecute mínimo Java 8
+- Un dispositivo que ejecute mínimo Java 8
 
--Conexión a internet ó red local potente
+- Conexión a internet ó red local potente
 
--Conocimientos mínimos en redes
+- Conocimientos mínimos en redes
 
 Versión 0.8.12082024 (Beta)
 ---
