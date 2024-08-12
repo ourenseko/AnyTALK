@@ -51,17 +51,6 @@ Nuevas funciones (Necesita la bliblioteca "lib/gson-2.8.9.jar" y mantener la est
 
 
 
-
-Instrucciones de Ejecución v. 0.6.13072024 Beta
----
-
-UPDAPTED.
-
-
-![image](https://github.com/user-attachments/assets/1c54c7cc-5590-4186-8757-df7f8cddc90f)
-
--ó-
-
 Server (SHELL)
 ```Java
 java -jar BAOFONGhz.jar -servidor <LOCAL_PORT>
@@ -74,41 +63,6 @@ java -jar BAOFONGhz.jar -cliente <IP> <PORT>
 java -jar BAOFONGhz.jar -c 8.8.8.8 80
 ```
 
-Instrucciones de Ejecución v. 0.4.12072024 Beta
----
-
-UPDAPTED.
-
-![v  0 4](https://github.com/ourenseko/BAOFONGhz/assets/25538565/380a0b2f-3e36-4820-9c4b-0ffe59d87592)
-
- 
-Instrucciones de Ejecución v. 0.2.10072024 Alpha (GUI)
----
-
-Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz_v.0.3.11072024.zip
-
-![image](https://github.com/ourenseko/BAOFONGhz/assets/25538565/db09cb01-b0ea-49e3-95cf-873e0fa551a8)
-
-
-
-Instrucciones de Ejecución v. 0.1 Alpha (SHELL)
----
-Compilar los programas: Abre una terminal (o símbolo del sistema) y compila los archivos .java:
-
-```Java
- javac VoiceChatServer.java VoiceChatClient.java
-```
-
-Ejecutar el servidor: En la computadora que actuará como servidor
-
-```Java 
- java VoiceChatServer
-```
-
-Ejecutar el cliente: En la computadora que actuará como cliente
-```Java
- java VoiceChatClient
-```
 
 Asegúrate de que el cliente tenga la dirección IP correcta del servidor. Puedes cambiar 127.0.0.1 en VoiceChatClient.java por la IP real del servidor. Para probar el sistema con una conexión a internet simplemente usar las IPs locales que asigna el router a cada dispositivo y abrir los puertos en el SO (Windows con seguridad avanzada)
 
