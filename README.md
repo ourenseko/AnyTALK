@@ -19,12 +19,11 @@ Requisitos mínimos
 Instrucciones de Ejecución v. 0.8.12082024 Beta
 ---
 Descargar:  https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz_v0.8.12082024.zip
-(Necesita la bliblioteca "lib/gson-2.8.9.jar" y mantener la estuctura de directorios)
 
 ![image](https://github.com/user-attachments/assets/5291656a-7508-48f9-a837-c31018c665ab)
 
 
-Nuevas funciones 
+Nuevas funciones (Necesita la bliblioteca "lib/gson-2.8.9.jar" y mantener la estuctura de directorios)
 
 -Funcionalidad LORO repetidor: Repite la entrada de audio para que la emisora base emita a su alrededor.
 
