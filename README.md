@@ -107,7 +107,7 @@ La calidad de la transmisión puede variar dependiendo de la red y las capacidad
 
 
 ```Licencia de uso, not comercial purporses
-BAOFENG ©️ COPYRIGHT 2024
+BAOFONGhz ©️ COPYRIGHT 2024
 
 (...) Cont'd file: BAOFONGhz/LICENSE
 
@@ -124,7 +124,7 @@ En ordenadores portatiles y teléfonos (necesitas que pueda ejecutar Java) puede
 
 Conecta el microfono y parlante en los puertos jack respectivamente, activa el modo VOX 1 de tu emisora y sube el volumen al máximo.
 
-Sintoniza una frecuencia silenciosa (legal) o repetidor dedicado en el que va a operar la estación local
+Sintoniza una frecuencia o canal silencioso y legal ó repetidor dedicado en el que va a operar la estación local
 
 El servidor necesita tener una IP estática o usar un servicio noIP para mantener la conexión
 
