@@ -16,9 +16,30 @@ Requisitos mínimos
 
 -Conocimientos mínimos en redes
 
+Instrucciones de Ejecución v. 0.8.12082024 Beta
+---
+Descargar: 
+
+Nuevas funciones 
+
+-Funcionalidad LORO repetidor: Repite la entrada de audio para que la emisora base emita a su alrededor.
+
+-Funcionalidad Guardar emisora: Guarda la estación en un archivo haciando un apunte de la dirección del servidor.
+
+-Funcionalidad Emosoras: Muestra una tabla con las estaciones guaradas en el archivo.
+
+
+
 Instrucciones de Ejecución v. 0.6.13072024 Beta
 ---
 Descargar: https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz/dist/BAOFONGhz.jar
+
+Nuevas funciones: 
+
+-Funcionalidad: Muestra una lista desplegable de las conexiones efectuadas con el cliente y el servidor.
+
+-Mejora visial: Tema Windows
+
 
 ![image](https://github.com/user-attachments/assets/1c54c7cc-5590-4186-8757-df7f8cddc90f)
 
