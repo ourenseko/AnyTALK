@@ -38,13 +38,13 @@ Descargar:  https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz_v0.8.1208
 
 
 
-Server (SHELL)
+Server class (SHELL)
 ```Java
 java -jar BAOFONGhz.jar -servidor <LOCAL_PORT>
 java -jar BAOFONGhz.jar -s 32323
 ```
 
-Client (SHELL)
+Client class (SHELL)
 ```Java
 java -jar BAOFONGhz.jar -cliente <IP> <PORT>
 java -jar BAOFONGhz.jar -c 8.8.8.8 80
