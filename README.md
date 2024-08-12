@@ -18,8 +18,7 @@ Requisitos mínimos
 
 Instrucciones de Ejecución v. 0.8.12082024 Beta
 ---
-Descargar: https://github.com/ourenseko/BAOFONGhz/tree/main/BAOFONGhz/dist
-(Es necesario descargar tambien la bliblioteca "lib/gson-2.8.9.jar" y mantener la estuctura de directorios)
+Descargar: https://github.com/ourenseko/BAOFONGhz/tree/main/BAOFONGhz/dist (Necesita la bliblioteca "lib/gson-2.8.9.jar" y mantener la estuctura de directorios)
 
 ![image](https://github.com/user-attachments/assets/5291656a-7508-48f9-a837-c31018c665ab)
 
@@ -28,9 +27,9 @@ Nuevas funciones
 
 -Funcionalidad LORO repetidor: Repite la entrada de audio para que la emisora base emita a su alrededor.
 
--Funcionalidad Guardar emisora: Guarda la estación en un archivo haciando un apunte de la dirección del servidor.
+-Funcionalidad Guardar emisora: Guarda la estación en un archivo apuntando la dirección del servidor remoto.
 
--Funcionalidad Emisoras: Muestra una tabla con las estaciones guaradas en el archivo.
+-Funcionalidad Emisoras: Muestra una tabla con las estaciones guardadas.
 
 
 
