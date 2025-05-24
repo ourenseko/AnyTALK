@@ -1,0 +1,54 @@
+CREATE DATABASE baofonghz;
+
+USE baofonghz
+
+CREATE TABLE serviciosPing (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    matricula VARCHAR(45) DEFAULT 'NOLICENSE',
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    lastTimestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    BAN BOOLEAN DEFAULT FALSE,
+    timeOnline INT DEFAULT 0;
+    ip-public VARCHAR(45),
+    ip-local VARCHAR(45),
+    mac VARCHAR(255),
+    os VARCHAR(255),
+    nav VARCHAR(255),
+    user VARCHAR(255),
+    typeLang VARCHAR(255),
+    timeReg VARCHAR(255)
+);
+
+CREATE TABLE estacionesOnlineReg(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    matricula VARCHAR(45) DEFAULT 'NOLICENSE',
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    lastTimestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    BAN BOOLEAN DEFAULT FALSE,
+    timeOnline INT DEFAULT 0;
+    ip-public VARCHAR(45),
+    online BOOLEAN DEFAULT FALSE
+);
+
+CREATE TABLE emisoras(
+    id INT AUTO_INCREMENT,
+    matricula VARCHAR(45) PRIMARY KEY,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    lastTimestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    BAN BOOLEAN DEFAULT FALSE,
+    timeOnlineTotal INT DEFAULT 0;
+    ip-public VARCHAR(45),
+    online BOOLEAN DEFAULT FALSE
+);
+
+CREATE TABLE emisoraRegDaily(
+    matricula VARCHAR(45) PRIMARY KEY,
+    date DATE DEFAULT CURRENT_DATE
+    timeOnline INT DEFAULT 0;
+);
+
+CREATE TABLE emisoraRegHour(
+    matricula VARCHAR(45) PRIMARY KEY,
+    hour TIME DEFAULT CURRENT_TIME,
+);
+
