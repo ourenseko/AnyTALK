@@ -84,7 +84,7 @@ public class index extends javax.swing.JFrame {
         jLabel2.setText("📣");
 
         jLabel3.setForeground(new java.awt.Color(153, 153, 153));
-        jLabel3.setText("BAOFONGhz™ - v. 1.0.20250525");
+        jLabel3.setText("BAOFONGhz™ - v. 0.10.20240914");
 
         jComboBox1.setFont(new java.awt.Font("Comic Sans MS", 0, 12)); // NOI18N
         jComboBox1.setToolTipText("Listening list");
@@ -95,7 +95,7 @@ public class index extends javax.swing.JFrame {
         jComboBox2.setFocusable(false);
 
         jButton3.setText("❌");
-        jButton3.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jButton3.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jButton3.setFocusable(false);
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -104,7 +104,7 @@ public class index extends javax.swing.JFrame {
         });
 
         jButton4.setText("❌");
-        jButton4.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jButton4.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jButton4.setFocusable(false);
         jButton4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -150,7 +150,7 @@ public class index extends javax.swing.JFrame {
         });
 
         jButton1.setText("✔");
-        jButton1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jButton1.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jButton1.setFocusable(false);
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -170,7 +170,7 @@ public class index extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, 69, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 50, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(19, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -181,10 +181,10 @@ public class index extends javax.swing.JFrame {
                     .addComponent(jTextField1))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jButton1)
-                .addContainerGap(25, Short.MAX_VALUE))
+                .addContainerGap(30, Short.MAX_VALUE))
         );
 
-        jTabbedPane1.addTab("Channel", jPanel1);
+        jTabbedPane1.addTab("LISN", jPanel1);
 
         jTextField5.setEditable(false);
         jTextField5.setFont(new java.awt.Font("Comic Sans MS", 0, 12)); // NOI18N
@@ -229,7 +229,7 @@ public class index extends javax.swing.JFrame {
         });
 
         jButton2.setText("✔");
-        jButton2.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jButton2.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jButton2.setFocusable(false);
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -253,7 +253,7 @@ public class index extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jTextField6, javax.swing.GroupLayout.PREFERRED_SIZE, 69, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addComponent(jButton2, javax.swing.GroupLayout.PREFERRED_SIZE, 50, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(19, Short.MAX_VALUE))
         );
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -271,7 +271,7 @@ public class index extends javax.swing.JFrame {
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
-        jTabbedPane1.addTab("AIR", jPanel2);
+        jTabbedPane1.addTab("TALK", jPanel2);
 
         jTextArea1.setColumns(20);
         jTextArea1.setFont(new java.awt.Font("Comic Sans MS", 0, 12)); // NOI18N
@@ -291,16 +291,16 @@ public class index extends javax.swing.JFrame {
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel3Layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 68, Short.MAX_VALUE)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 77, Short.MAX_VALUE)
                 .addContainerGap())
         );
 
         jTabbedPane1.addTab("Notes", jPanel3);
 
-        jMenu1.setText("Functions");
+        jMenu1.setText("···");
 
-        jMenuItem6.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_L, java.awt.event.InputEvent.CTRL_MASK));
-        jMenuItem6.setText("LORO Repeater");
+        jMenuItem6.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_L, java.awt.event.InputEvent.CTRL_DOWN_MASK));
+        jMenuItem6.setText("LORO Repetidor");
         jMenuItem6.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jMenuItem6ActionPerformed(evt);
@@ -308,8 +308,8 @@ public class index extends javax.swing.JFrame {
         });
         jMenu1.add(jMenuItem6);
 
-        jMenuItem4.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_E, java.awt.event.InputEvent.CTRL_MASK));
-        jMenuItem4.setText("📻 Channels");
+        jMenuItem4.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_E, java.awt.event.InputEvent.CTRL_DOWN_MASK));
+        jMenuItem4.setText("📻 Emisoras");
         jMenuItem4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jMenuItem4ActionPerformed(evt);
@@ -317,8 +317,8 @@ public class index extends javax.swing.JFrame {
         });
         jMenu1.add(jMenuItem4);
 
-        jMenuItem5.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_S, java.awt.event.InputEvent.CTRL_MASK));
-        jMenuItem5.setText("💾 Save channel");
+        jMenuItem5.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_S, java.awt.event.InputEvent.CTRL_DOWN_MASK));
+        jMenuItem5.setText("💾 Guardar emisora");
         jMenuItem5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jMenuItem5ActionPerformed(evt);
@@ -349,7 +349,7 @@ public class index extends javax.swing.JFrame {
 
         jMenuBar1.add(jMenu1);
 
-        jMenu2.setText("+");
+        jMenu2.setText("🧩 ");
 
         jMenuItem8.setText("(?) Manual");
         jMenuItem8.addActionListener(new java.awt.event.ActionListener() {
@@ -457,7 +457,7 @@ public class index extends javax.swing.JFrame {
         
         String SERVER_ADDRESS = jTextField1.getText();
         String puerto = jTextField2.getText();
-        String message = "Sintonized\n "+SERVER_ADDRESS+":"+puerto;
+        String message = "Sintonizando\n "+SERVER_ADDRESS+":"+puerto;
         JOptionPane.showMessageDialog(null, message, "BAOFONGhz", JOptionPane.INFORMATION_MESSAGE);
         
         
@@ -509,7 +509,7 @@ public class index extends javax.swing.JFrame {
         
         ip ip = new ip();
         
-        String message = "Transmit in\n Local: "+ip.getIpLocal()+":"+jTextField4.getText()+" \n Net: "+ip.getIpPublic()+":"+jTextField6.getText();
+        String message = "Transmitiendo\n Local: "+ip.getIpLocal()+":"+jTextField4.getText()+" \n Net: "+ip.getIpPublic()+":"+jTextField6.getText();
         JOptionPane.showMessageDialog(null, message, "BAOFONGhz", JOptionPane.INFORMATION_MESSAGE);
        
        
@@ -639,7 +639,6 @@ public class index extends javax.swing.JFrame {
     private void jMenuItem6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem6ActionPerformed
         // TODO add your handling code here:
         
-        JOptionPane.showMessageDialog(null, "Loro activado.\n Cierre la App para finalizar.", "Baofonghz", JOptionPane.INFORMATION_MESSAGE);
         
 
         // Crear una instancia de MiClase
