@@ -21,7 +21,7 @@ Características
 
 - LORO (half duplex)
 
-- Repetidor (En desarrollo)
+- Repetidor (full duplex)
 
 
 
