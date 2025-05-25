@@ -34,7 +34,7 @@ Requisitos mínimos
 
 Instrucciones de Ejecución v. 0.8.12082024 Beta
 ---
-Descargar:  https://github.com/ourenseko/BAOFONGhz/blob/main/BAOFONGhz_v0.8.12082024.zip
+UPDAPTED.
 
 ![357082456-5291656a-7508-48f9-a837-c31018c665ab](https://github.com/user-attachments/assets/a92f4d86-e195-4b25-8638-fd5fb128761f)
 
