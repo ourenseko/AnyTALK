@@ -22,15 +22,19 @@ Permanet link: https://raw.githubusercontent.com/ourenseko/BAOFONGhz/main/LICENS
 Requisitos mínimos
 ---
 
--Un radiotransmisor FM ó DMR, para utilizar de estación
+-Conocimientos mínimos en redes.
 
--Cables de audio y adaptadores, para conectar los jack en la radio
+-Conexión a internet ó red local.
 
--Un dispositivo que ejecute mínimo Java 8
+-Un dispositivo que ejecute mínimo Java 8, para esta App.
 
--Conexión a internet ó red local potente
+-Un radiotransmisor FM ó DMR, para utilizar de estación.
 
--Conocimientos mínimos en redes
+-Cables de audio y adaptadores, para conectar los jack en la radio.
+
+
+
+
 
 Instrucciones de Ejecución v. 0.8.12082024 Beta
 ---
