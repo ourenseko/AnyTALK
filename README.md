@@ -17,18 +17,12 @@ Permanet link: https://raw.githubusercontent.com/ourenseko/BAOFONGhz/main/LICENS
 Características 
 ---
 
+- Estación de emisión/recepción VozIP (full duplex)
 
-- Estación de emisión VozIP
+- LORO (half duplex)
 
-- Estación de recepción VozIP
+- Repetidor (En desarrollo)
 
-- Multi estación I/O
-
-- Guardado
-
-- LORO / Repetidor
-
-- Compatibilidad con reproductores y grabadoras 
 
 
 
